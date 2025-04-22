@@ -1,0 +1,5 @@
+(Add->commit->push)
+
+1- add task to staging area-> git add "fileName (maybe more than one project)* " . *to unstage the task you can write this command "git reset head "fileName (maybe more than one project)*"
+
+2- after adding the task you must write the command to commit task to push it later  -> git commit -m"with your message" 
